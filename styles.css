@@ -19,6 +19,23 @@ body {
   font-family: 'Catamaran', sans-serif;
 }
 
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* == GENERAL End == */
 
 /* == NAVIGATION Start == */
