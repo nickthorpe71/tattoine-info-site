@@ -1,0 +1,50 @@
+/* color palette
+lightsand: #f6edd2
+darksand: #ad846e
+blackish: #120f12
+purpbalck: #3e3339
+darkgreyblue: #4b586f
+brightblue: #678ebb
+lightskyblue: #bacadc
+*/
+
+/* == GENERAL Start == */
+
+body {
+  background-color: #f6edd2;
+  color: #120f12;
+}
+
+/* == GENERAL End == */
+
+/* == NAVIGATION Start == */
+
+/* background color of the top navigation */
+.topnav {
+  background-color: #120f12;
+  overflow: hidden;
+}
+
+/* links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* color of links on hover */
+.topnav a:hover {
+  background-color: #bacadc;
+  color: #120f12;
+}
+
+/* color of active/current link */
+.topnav a.active {
+  background-color: #678ebb;
+  color: white;
+}
+
+/* == NAVIGATION End == */
