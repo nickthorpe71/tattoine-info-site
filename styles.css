@@ -1,4 +1,7 @@
-/* color palette
+/* Import font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;400&display=swap');
+
+/* Color Palette
 lightsand: #f6edd2
 darksand: #ad846e
 blackish: #120f12
@@ -13,6 +16,7 @@ lightskyblue: #bacadc
 body {
   background-color: #f6edd2;
   color: #120f12;
+  font-family: 'Catamaran', sans-serif;
 }
 
 /* == GENERAL End == */
